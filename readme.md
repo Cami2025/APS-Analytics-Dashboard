@@ -88,14 +88,18 @@ No real patient or institutional data is included.
 ## 👩‍💻 Author
 
 **Camila Álvarez**  
-Physical Activity & Health Therapist  
-Data Analytics | Healthcare  
+Physical Activity Specialist, Workplace Wellness & People Analytics  
+GitHub: https://github.com/Cami2025
+
+# Contact
+
+LinkedIn: www.linkedin.com/in/camilaalvareztafs
+
+Professional email: camianalytics5@gmail.com
 
 ---
 
-## 💡 Future Improvements
+## ⭐ Support the Project
 
-- SQL integration  
-- Automated data pipelines  
-- Predictive model for dropout risk  
-- Real-time dashboard
+If you found this project useful, feel free to give the repository a **⭐ star**!  
+Your support helps showcase my work and encourages the creation of more analytics projects.
